@@ -1,0 +1,73 @@
+Type your name - High
+ Type your name
+
+Type your name - Medium
+ Get your computer or the device to type on.
+ Type your first name.
+ Type your last name.
+
+Type your name - Low
+ Get your computer.
+ Turn it on.
+ Open the program you want to type the name into.
+ Put the cursor into the name field.
+ Type your first name, one letter at a time.
+ Type your last name, one letter at a time.
+ You're done!
+
+ Turn on and unlock your iPhone - High
+  Turn on your iPhone
+  Unlock your iPhone
+
+ Turn on and unlock your iPhone - Medium
+  Get your iPhone
+  Find the power button on the iPhone
+  If it's off, press the power button to turn it on
+  Wait for it to boot up to the main screen
+  Do the unlock function to tell it to unlock
+
+
+ Turn on and unlock your iPhone - Low
+  Get your iPhone
+  If it's lost, go find it
+  Locate the power button on the iPhone
+  If you can't find the power button, get help with locating it
+  If it's not already on, press the power button to turn it on
+  Wait for the iPhone to boot up to the unlock screen
+  If it doesn't boot up, get help from tech support
+  On the unlock screen, do the function to start the unlocking
+  Enter your unlock code or pattern to tell it to unlock
+  Press OK to tell it to proces your unlock code.
+  If it unlocked, you're done
+  If it didn't unlock, enter the unlock code again until it unlocks
+  You're done.
+-----------------------
+
+Make a cup of coffee - High
+ Make a cup of coffee
+
+Make a cup of coffee - Medium
+ Get the coffee powder
+ Put the powder in your cup
+ Add hot water to your cup
+ Add cream and Splenda to your cup
+ Stir your coffee.
+ Let it cool a bit and enjoy it.
+
+Make a cup of coffee - Low
+ Go into the kitchen
+ Locate open counter space to make the coffee on
+ If there's no open counter space, clean up your kitchen!
+ Get a coffee cup out of the cupboard
+ If there's no cup in the cupboard, get one out of the dishwasher or sink
+ If the cup is dirty, wash it out
+ If the cup is wet, dry it
+ Get the coffee powder out of the cupboard
+ If there's no coffee in the cupboard, find or buy some
+ Put one tablespoon of coffee in the cup
+ Heat up some water for your coffee
+ Add one cup of hot water to your coffee
+ Add a tablespoon of cream to your cup
+ Add the contents of one Splenda packet to your cup
+ Stir your coffee.
+ Let it cool a bit and enjoy drinking it.
